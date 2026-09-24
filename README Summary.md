@@ -23,15 +23,15 @@ This portfolio showcases:
 ##  Repository Structure
 
 ecommerce-testing-portfolio/
-├── 01-Test-Planning/
-│   └── Test-Plan.md
-├── 02-Test-Cases/
-│   └── Test-Cases.md (65+ test cases)
-├── 03-Bug-Reports/
-│   └── BUG-REPORTS.md (11 documented defects)
-├── 04-Test-Metrics/
-│   └── Test-Execution-Report.md
-└── README.md (this file)
+- 01-Test-Planning/
+  - Test-Plan.md
+- 02-Test-Cases/
+  - Test-Cases.md (65+ test cases)
+- 03-Bug-Reports/
+  - BUG-REPORTS.md (11 documented defects)
+- 04-Test-Metrics/
+  - Test-Execution-Report.md
+- README Summary.md (this file)
 
 ## Testing Techniques Applied
 
