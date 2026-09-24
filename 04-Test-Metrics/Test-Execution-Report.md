@@ -3,7 +3,7 @@
 **Date:** 10.07.2026
 **Tester:** Anusha Hiremath
 **Application:** Sauce Labs Demo
-**Testing Duration:** 10 days
+**Testing Duration:** 5 days
 
 ## Executive Summary
 
