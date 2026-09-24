@@ -4,7 +4,7 @@
 
 **Title:** Login button unresponsive on Firefox
 
-**Severity:** 🔴 CRITICAL
+**Severity:**  CRITICAL
 
 **Priority:** HIGH
 
@@ -30,7 +30,7 @@ Login button doesn't respond. Page freezes.
 
 **Title:** Cart calculation error with discount
 
-**Severity:** 🟠 HIGH
+**Severity:**  HIGH
 
 **Priority:** HIGH
 
@@ -55,7 +55,7 @@ Total shows $100 (discount not applied)
 
 **Title:** Search filter fails with special characters
 
-**Severity:** 🟠 HIGH
+**Severity:**  HIGH
 
 **Priority:** HIGH
 
@@ -80,7 +80,7 @@ Page crashes
 
 **Title:** Payment gateway timeout error
 
-**Severity:** 🟠 HIGH
+**Severity:**  HIGH
 
 **Priority:** HIGH
 
@@ -105,7 +105,7 @@ Error: "Gateway timeout" after 30 seconds
 
 **Title:** Mobile UI alignment issue
 
-**Severity:** 🟡 MEDIUM
+**Severity:**  MEDIUM
 
 **Priority:** MEDIUM
 
@@ -130,7 +130,7 @@ Form fields overflow screen
 
 **Title:** Loading spinner missing on checkout
 
-**Severity:** 🟡 MEDIUM
+**Severity:**  MEDIUM
 
 **Priority:** MEDIUM
 
@@ -154,7 +154,7 @@ No loading indicator; appears frozen
 
 **Title:** Sort by price inconsistent
 
-**Severity:** 🟡 MEDIUM
+**Severity:**  MEDIUM
 
 **Priority:** MEDIUM
 
@@ -180,7 +180,7 @@ Sorting inconsistent on second click
 
 **Title:** Profile update data not saved
 
-**Severity:** 🟡 MEDIUM
+**Severity:**  MEDIUM
 
 **Priority:** MEDIUM
 
@@ -207,7 +207,7 @@ Name reverted to original
 
 **Title:** Wishlist not persisting after logout
 
-**Severity:** 🟡 MEDIUM
+**Severity:**  MEDIUM
 
 **Priority:** MEDIUM
 
@@ -233,7 +233,7 @@ Wishlist is empty
 
 **Title:** Minor typo in terms page
 
-**Severity:** 🟢 LOW
+**Severity:**  LOW
 
 **Priority:** LOW
 
@@ -257,7 +257,7 @@ Word "teh" instead of "the"
 
 **Title:** Button color slightly off on hover
 
-**Severity:** 🟢 LOW
+**Severity:**  LOW
 
 **Priority:** LOW
 
