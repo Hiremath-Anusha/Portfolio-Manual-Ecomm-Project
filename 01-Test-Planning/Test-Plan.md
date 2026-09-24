@@ -15,10 +15,10 @@ Testing the following modules:
 5. User Account Management
 
 ## Testing Types
-✅ Boundary Value Analysis (BVA)
-✅ Equivalence Class Partitioning (ECP)
-✅ Positive & Negative Testing
-✅ Functional Testing
+ Boundary Value Analysis (BVA)
+ Equivalence Class Partitioning (ECP)
+ Positive & Negative Testing
+ Functional Testing
 
 ## Test Environment
 - **Browser:** Chrome (Latest)
@@ -26,14 +26,14 @@ Testing the following modules:
 - **Connection:** Stable Internet
 
 ## Entry Criteria
-✅ Application accessible
-✅ Test account created
-✅ Testing environment ready
+ Application accessible
+ Test account created
+ Testing environment ready
 
 ## Exit Criteria
-✅ 70+ test cases executed
-✅ 10-15 defects documented
-✅ Test report generated
+ 70+ test cases executed
+ 10-15 defects documented
+ Test report generated
 
 ## Key Metrics Target
 - Pass Rate: 80%+
