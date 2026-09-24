@@ -13,12 +13,12 @@ Professional manual testing documentation for e-commerce web application demonst
 ##  Project Overview
 
 This portfolio showcases:
-- ✅ Test planning and strategy
-- ✅ Comprehensive test case design using BVA & ECP techniques
-- ✅ Manual test execution and defect identification
-- ✅ Professional bug reporting with evidence
-- ✅ Test metrics and quality analysis
-- ✅ Complete STLC implementation
+-  Test planning and strategy
+-  Comprehensive test case design using BVA & ECP techniques
+-  Manual test execution and defect identification
+-  Professional bug reporting with evidence
+-  Test metrics and quality analysis
+-  Complete STLC implementation
 
 ##  Repository Structure
 
@@ -71,13 +71,13 @@ ecommerce-testing-portfolio/
 
 ##  Skills Demonstrated
 
-✅ Test case design with BVA and ECP techniques
-✅ Manual functional testing execution
-✅ Defect identification and documentation
-✅ Test metrics and reporting
-✅ SDLC/STLC understanding
-✅ Quality assurance best practices
-✅ Professional documentation
+ > Test case design with BVA and ECP techniques
+ > Manual functional testing execution
+ > Defect identification and documentation
+ > Test metrics and reporting
+ > SDLC/STLC understanding
+ > Quality assurance best practices
+ > Professional documentation
 
 ##  Key Documents
 
@@ -88,18 +88,18 @@ ecommerce-testing-portfolio/
 
 ##  What This Portfolio Shows
 
-✅ Understanding of professional QA testing practices
-✅ Knowledge of BVA and ECP testing techniques
-✅ Ability to systematically test complex applications
-✅ Proficiency in identifying critical defects
-✅ Communication skills through professional documentation
-✅ Quality mindset and attention to detail
+- Understanding of professional QA testing practices
+- Knowledge of BVA and ECP testing techniques
+- Ability to systematically test complex applications
+- Proficiency in identifying critical defects
+- Communication skills through professional documentation
+- Quality mindset and attention to detail
 
-## 🔗 Links
+## Links
 
 - **GitHub:** https://github.com/Hiremath-Anusha/Portfolio-Manual-Ecomm-Project
 
-## 📝 Summary
+## Summary
 
 This project demonstrates hands-on expertise in manual software testing. 
 From test planning through execution to reporting, it showcases the complete Software Testing Life Cycle (STLC).
@@ -108,5 +108,5 @@ Perfect example of QA testing in action.
 ---
 
 **Portfolio Created:** 05.07.2026
-**Status:** ✅ Completed 
+**Status:**  Completed 
 **Last Updated:** 10.07.2026
