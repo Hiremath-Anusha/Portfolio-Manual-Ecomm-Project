@@ -97,7 +97,7 @@
 
 ## TOTAL: 65+ TEST CASES
 
-✅ BVA Examples Included (minimum 8 chars password, maximum 20 chars, etc.)
-✅ ECP Examples Included (valid email format, invalid email format, etc.)
-✅ Positive Testing (expected to pass)
-✅ Negative Testing (expected to fail)
+ BVA Examples Included (minimum 8 chars password, maximum 20 chars, etc.)
+ ECP Examples Included (valid email format, invalid email format, etc.)
+ Positive Testing (expected to pass)
+ Negative Testing (expected to fail)
